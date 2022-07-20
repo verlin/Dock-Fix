@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dock Fix", "Dock Fix.csproj", "{AF616F1D-F602-4616-8832-BB684C812EAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF616F1D-F602-4616-8832-BB684C812EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF616F1D-F602-4616-8832-BB684C812EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF616F1D-F602-4616-8832-BB684C812EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF616F1D-F602-4616-8832-BB684C812EAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89A083AD-E3F2-412C-8496-FA55F0DEFA80}
+	EndGlobalSection
+EndGlobal
